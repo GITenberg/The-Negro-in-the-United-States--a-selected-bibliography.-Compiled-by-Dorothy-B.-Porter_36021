@@ -1,0 +1,32 @@
+_repo: The-Negro-in-the-United-States--a-selected-bibliography.-Compiled-by-Dorothy-B.-Porter_36021
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 36021-rst/images/coverpage.jpg
+creator:
+  author:
+    agent_name: Wesley, Dorothy Porter
+    aliases:
+    - Porter, Dorothy B.
+    - Burnett, Dorothy Louise
+    - Porter, Dorothy
+    birthdate: 1905
+    deathdate: 1995
+    gutenberg_agent_id: '38037'
+    url: http://www.gutenberg.org/2009/agents/38037
+description: ''
+gutenberg_issued: '2011-05-02'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '36021'
+  lccn: '78606085'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'Z'
+- !lcsh 'African Americans -- Bibliography'
+title: The Negro in the United States; a selected bibliography. Compiled by Dorothy
+  B. Porter
+url: http://www.gutenberg.org/ebooks/36021
